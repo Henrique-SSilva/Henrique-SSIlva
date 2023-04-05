@@ -3,7 +3,7 @@
 
   <div>
    <h4> Yeah, some people know me as Taylor Henrique. </h4>
-   <p> I have been studing IT since 2015, when I was 16 and working as QA since february/2020 in a intership at Yaman, the same company I'm in until november/2022.
+   <p> I have been studing IT since 2015, when I was 16 and working as QA since february/2020 in a intership at Yaman, the same company I was in until november/2022.
    Currently I'm Software Performance Engineer at Inmetrics and I have been working with technologies as: <p/>
    <table>
     <tr>
