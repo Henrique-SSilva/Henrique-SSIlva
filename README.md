@@ -3,8 +3,8 @@
 
   <div>
    <h4> Yeah, some people know me as Taylor Henrique. </h4>
-   <p> I have been studing IT since 2015, when I was 16 and working as QA since february/2020 in a intership at Yaman, the same company I'm in until now.
-   Currently I'm Performance QA Analyst and I have been working with technologies as: <p/>
+   <p> I have been studing IT since 2015, when I was 16 and working as QA since february/2020 in a intership at Yaman, the same company I'm in until november/2022.
+   Currently I'm Software Performance Engineer at Inmetrics and I have been working with technologies as: <p/>
    <table>
     <tr>
       <th>TECHNOLOGIES</th>
@@ -16,11 +16,11 @@
      </tr>
      <tr>
       <td>Log Analyses</td>
-      <td>Grafana, Splunk</td>
+      <td>Grafana, Splunk, AWS CloudWatch</td>
      </tr>
      <tr>
       <td>Server Analyses</td>
-      <td>AppDynamics, Dynatrace</td>
+      <td>AppDynamics, Dynatrace, Datadog</td>
      </tr>
      <tr>
       <td>Languages</td>
@@ -28,7 +28,7 @@
      </tr>
      <tr>
       <td>Frameworks</td>
-      <td> Selenium, Gherkin, JUnit</td>
+      <td> Selenium, Gherkin, JUnit, Flask</td>
      </tr>
      <tr>
       <td>IDEs</td>
