@@ -74,8 +74,8 @@
    </tr>
    <tr>
     <td>Spanish</td>
-    <td>B1</td>
-    <td>Basic</td>
+    <td>B2</td>
+    <td>Upper Intermediate</td>
     <td>Intermediate</td>
     <td>Intermediate</td>
    </tr>
@@ -85,6 +85,5 @@
   <div>
    <h4>CONTACT ME</h4>
    <a href="https://www.linkedin.com/in/henrique-silva001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
-    <a href="https://www.instagram.com/henrique.s.arts/tagged/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
 </body>
