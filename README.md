@@ -3,7 +3,7 @@
 
   <div>
    <h4> Yeah, some people know me as Taylor Henrique. </h4>
-   <p> I have been studing IT since 2015, and focused my studies on Application Performance Managemente (APM) since 2020, working as a QA Intern, APM Analyst and currenty APM Engineer. <p/>
+   <p> I have been studing IT since 2015, and focused my studies on Software Performance since 2020, working as a QA Intern, APM Analyst and currenty as Senior QA Analyst [focused on Performance]. <p/>
    <table>
     <tr>
       <th>TECHNOLOGIES</th>
@@ -11,7 +11,7 @@
     <tr>
     <tr>
       <td>Performance Test Software</td>
-      <td>JMeter</td>
+      <td>JMeter, Neoload</td>
      </tr>
      <tr>
       <td>Log Analyses</td>
