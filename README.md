@@ -1,10 +1,16 @@
 <body>
-  <h2> Hi there, I'm Henrique</h2>
+  <h2> Hi there, I'm Taylor</h2>
+  <h4> Social Name: Taylor <br> ID Name: Henrique</h4>
 
   <div>
-   <h4> Yeah, some people know me as Taylor Henrique. </h4>
-   <p> I have been studing IT since 2015, and focused my studies on Software Performance since 2020, working as a QA Intern, APM Analyst and currenty as Senior QA Analyst [focused on Performance]. <p/>
-   <table>
+    <ul>
+      <li>Studing IT since 2015;</li>
+      <li>Working with Software Testing / Quality Assurance since 2020;</li>
+      <li>Last experience: Senior QA Analyst, working with Neoload, Zabbix, Python, SQL and internal tools;</li>
+      <li>AWS Cloud Practitioner Certified;</li>
+      <li>Worked on custumers: Itaú, Bradesco, B3 (Brazilian Stock Exchange), BBCE, Zoop (iFood Financial Service), DPSP Group ("Drogaria São Paulo" Owner), Assaí, Natural and Avon, Prudential, Dell.</li>
+    </ul> 
+    <table>
     <tr>
       <th>TECHNOLOGIES</th>
       <th>WHICH ONES</th>
