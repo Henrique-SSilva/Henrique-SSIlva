@@ -23,22 +23,17 @@
      </tr>
      <tr>
       <td>Languages</td>
-      <td>Java, Javascript, Python, Beanshell, Git, MySQL, Cucumber</td>
+      <td>Python, SQL</td>
      </tr>
      <tr>
       <td>Frameworks</td>
       <td> Selenium, Gherkin, JUnit, Flask</td>
      </tr>
-     <tr>
-      <td>IDEs</td>
-      <td>MySQL Workbench, IntelliJ, VS Code, Sublime</td>
-     </tr>
-     <tr>
       <td>Agile Framework / Metodologies</td>
       <td>Scrum, Kanban, BDD</td>
      </tr>
      <tr>
-      <td>Documentation</td>
+      <td>API Test / Documentation</td>
       <td>Insomnia, Postman, Swagger, Jira, Confluence</td>
      </tr>
      <tr>
