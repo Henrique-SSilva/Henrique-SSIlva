@@ -6,7 +6,7 @@
     <ul>
       <li>Studing IT since 2015;</li>
       <li>Working with Software Testing / Quality Assurance since 2020;</li>
-      <li>Last experience: Senior QA Analyst, working with Neoload, Zabbix, Python, SQL and internal tools;</li>
+      <li>Last experience: QA Analyst, working with Neoload, Zabbix, Python, SQL and internal tools;</li>
       <li>AWS Cloud Practitioner Certified;</li>
       <li>Worked on custumers: Itaú, Bradesco, B3 (Brazilian Stock Exchange), BBCE, Zoop (iFood Financial Service), DPSP Group ("Drogaria São Paulo" Owner), Assaí, Natural and Avon, Prudential, Dell.</li>
     </ul> 
@@ -20,11 +20,11 @@
       <td>JMeter, Neoload</td>
      </tr>
      <tr>
-      <td>Log Analyses</td>
-      <td>Grafana, Splunk, AWS CloudWatch</td>
+      <td>Observability Tools</td>
+      <td>Grafana, Zabbix, Splunk, AWS CloudWatch</td>
      </tr>
      <tr>
-      <td>Server Analyses</td>
+      <td>APM Tools</td>
       <td>AppDynamics, Dynatrace, Datadog</td>
      </tr>
      <tr>
@@ -33,7 +33,7 @@
      </tr>
      <tr>
       <td>Frameworks</td>
-      <td> Selenium, Gherkin, JUnit, Flask</td>
+      <td>Selenium, Gherkin, JUnit, Flask</td>
      </tr>
       <td>Agile Framework / Metodologies</td>
       <td>Scrum, Kanban, BDD</td>
